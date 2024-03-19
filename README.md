@@ -14,4 +14,4 @@ This project implements a simple neural network using numpy to learn the AND log
 
 
    
-
+![img.png](img.png)
