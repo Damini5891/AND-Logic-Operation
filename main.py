@@ -5,7 +5,6 @@ from matplotlib import pyplot as plt
 def sigmoid(z):
     return 1 / (1 + np.exp(-z))
 
-
 def initializeParameters(inputFeatures, neuronsInHiddenLayers, outputFeatures):
     W1 = np.random.randn(neuronsInHiddenLayers, inputFeatures)
     W2 = np.random.randn(outputFeatures, neuronsInHiddenLayers)
