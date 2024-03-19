@@ -12,3 +12,6 @@ This project implements a simple neural network using numpy to learn the AND log
 3. Run the main script
 4. Once the training is complete, the script will plot the loss curve and display the predicted outputs for the AND logic operation.
 
+
+   
+
